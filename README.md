@@ -2,7 +2,6 @@
 
 Note: to use mvp for future projects, got to GitHub folder in command line, then:
 
-# $ cookiecutter https://github.com/cliffclive/datasciencemvp
 
 
 Author: Xinru Cheng
@@ -52,3 +51,4 @@ Description: This is an NLP and unsupervised learning project of a recipe recomm
     │   └── visualization  <- Scripts to create exploratory and results oriented visualizations
     │       └── visualize.py
 ```
+

@@ -1,6 +1,5 @@
 ## metisproject4_NLP
 
-Note: to use mvp for future projects, got to GitHub folder in command line, then:
 
 
 

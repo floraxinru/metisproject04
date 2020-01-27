@@ -1,8 +1,14 @@
-## metisproject4_NLP
+## metisproject4_NLP_recipe_recommender
 
+This is my 4th project at Metis Data Science. It is a 2.5-week project using NLP, unstructured data, and unsupervised learning.
 
+### Motivation
 
+### Data
 
-Author: Xinru Cheng
-Description: This is an NLP and unsupervised learning project of a recipe recommender
+### Tools
+
+### Results
+
+### Future Work
 
